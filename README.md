@@ -1,2 +1,1 @@
-# prepcourse-henry
-como crear un repositorio desde github y clonarlo a mi pc
+repositorio clonado y actualizado desde el pc a la nube 
